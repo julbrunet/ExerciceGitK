@@ -1,2 +1,4 @@
 Mon nom: Julien Brunet
+
 Modification du developpeur B
+Modification du developeur A
