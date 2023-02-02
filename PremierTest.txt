@@ -1,5 +1,4 @@
 Mon nom: Julien Brunet
 
-Modifcation developpeur A
-
 Premiere modif dev B sur la main
+Premiere modif de dev A sur myFeature
