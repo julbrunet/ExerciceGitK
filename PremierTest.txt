@@ -1,3 +1,5 @@
 Mon nom: Julien Brunet
 
 Je fais la feature B 
+//et aussi
+on developpe la feature A
