@@ -5,3 +5,5 @@ Je developpe la fonctionnalité A
 Je developpe la fonctionnalité B
 
 toto
+
+dev de la feature 1
