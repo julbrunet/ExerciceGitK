@@ -7,3 +7,4 @@ Je developpe la fonctionnalité B
 toto
 
 dev de la feature 1
+ developpement de la feature 2
